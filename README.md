@@ -7,3 +7,5 @@ Bubble Sort
 Merge Sort 
 Selection Sort
 Insertion Sort
+Quick Sort
+Heap Sort
